@@ -1,6 +1,6 @@
 # E-commerce Analytics Projects
 
-This projects aims to draw insights about 3 questions
+This projects aims to draw insights about 3 questions for an E-commerce website
 
 1- What is the evolution of the revenue during the year? 
 
